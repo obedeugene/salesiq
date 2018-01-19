@@ -1,2 +1,2 @@
-SalesIQ - A chatbot using the Ringcentral Api
+SalesIQ - A chatbot using the RingCentral Api
 =================================
